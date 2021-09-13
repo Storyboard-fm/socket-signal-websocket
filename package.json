@@ -54,7 +54,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geut/socket-signal-websocket.git"
+    "url": "git+https://github.com/storyboard-fm/socket-signal-websocket.git"
   },
   "keywords": [
     "socket-signal",
@@ -67,7 +67,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/geut/socket-signal-websocket/issues"
+    "url": "https://github.com/storyboard-fm/socket-signal-websocket/issues"
   },
-  "homepage": "https://github.com/geut/socket-signal-websocket#readme"
+  "homepage": "https://github.com/storyboard-fm/socket-signal-websocket#readme"
 }
